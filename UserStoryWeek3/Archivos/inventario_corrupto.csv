@@ -1,0 +1,11 @@
+productID,name,quantity,price,total
+1,Dani,23,11.0,253.0
+1,Dani,23,11.0,253.0
+2,uva,34,33.0,1122.0
+3,Manzana,diez,12.5,125.0
+4,Pera,5,GRATIS,0.0
+5,Melocoton,10,
+6,Sandia,2,5.0,10.0,ExtraColumna
+,Naranja,8,4.0,32.0
+8,Kiwi,,10.0,
+9,Piña_½_Kilo,50,10.5,525.0
